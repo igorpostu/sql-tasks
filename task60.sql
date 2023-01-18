@@ -1,0 +1,1 @@
+SELECT DAY(LAST_DAY("2012-02-11 01:00:00")) - DAY("2012-02-11 01:00:00") + 1 AS remaining;

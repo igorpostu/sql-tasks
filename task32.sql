@@ -1,0 +1,1 @@
+SELECT COUNT(facid) FROM facilities;
